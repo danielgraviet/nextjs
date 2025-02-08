@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Greeting from "./components/greeting";
-import LikeButton from "./components/likeButton";
+import Greeting from "../components/greeting";
+import LikeButton from "../components/likeButton";
 
 export default function Home() {
   return (
